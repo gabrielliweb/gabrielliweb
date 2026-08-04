@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Web & Java`**
 
-Olá! Sou graduanda em Sistemas para a Internet e técnica em Redes de Computadores. Atualmente, foco meus estudos no desenvolvimento de software, aprofundando meus conhecimentos na linguagem Java (Programação Orientada a Objetos), JavaScript e tecnologias para a Web. Sou apaixonada por criar soluções práticas, organizadas e com boa experiência de uso.
+Olá! Sou graduanda em Sistemas para a Internet e técnica em Redes de Computadores. Atualmente, foco meus estudos no desenvolvimento de software, aprofundando meus conhecimentos na linguagem Java, JavaScript e tecnologias para a Web.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/anagboliveira/" target="_blank">
