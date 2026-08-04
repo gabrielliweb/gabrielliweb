@@ -4,6 +4,14 @@
 
 Olá! Sou graduanda em Sistemas para a Internet e técnica em Redes de Computadores. Atualmente, foco meus estudos no desenvolvimento de software, aprofundando meus conhecimentos na linguagem Java, JavaScript e tecnologias para a Web.
 <p align="left">
+    <a href="https://www.linkedin.com/in/anagboliveira/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+<p align="left">
     <a href="https://github.com/gabrielliweb?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
