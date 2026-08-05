@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabrielli Oliveira
+# 👩🏾‍💻 Gabrielli Oliveira
 
 **`Desenvolvedora Web & Java`**
 
