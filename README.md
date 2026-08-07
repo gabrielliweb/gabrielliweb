@@ -1,6 +1,6 @@
 # 👩🏾‍💻 Gabrielli Oliveira
 
-**`Desenvolvedora Web & Java`**
+**`Desenvolvedora Web & Java em formação`**
 
 Olá! Sou graduanda em Sistemas para a Internet e técnica em Redes de Computadores. Atualmente, foco meus estudos no desenvolvimento de software, aprofundando meus conhecimentos na linguagem Java, JavaScript e tecnologias para a Web.
 
